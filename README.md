@@ -1,10 +1,10 @@
 # Lösch Stick
 
-Am ende unserer Kurse müssen die Lernenden Ihre Labor-Geräte Löschen. Dafür haben wir sogenannte ``Löschsticks``. Bootet man en Gerät von diesem USB-Stick, kann die Harddisc mit wenigen Klicks gelöscht werden. 
+Am Ende unserer Kurse müssen die Lernenden Ihre Labor-Geräte löschen. Dafür haben wir sogenannte ``Löschsticks``. Bootet man ein Gerät von diesem USB-Stick, kann die Harddisk mit wenigen Klicks gelöscht werden. 
 
-## Instalationsanleitung
+## Installationsanleitung
 
-Zuerst muss man ein USB-Stick mit DOS bootfähig machen. Dies Funktioniert ganz einfach über das Tool [Rufus](https://rufus.ie/). 
+Zuerst muss man ein USB-Stick mit DOS bootfähig machen. Dies funktioniert ganz einfach über das Tool [Rufus](https://rufus.ie/). 
 
 <img src="./data/Rufus.png">
 
@@ -57,3 +57,4 @@ GDISK 2 /mbr
 Nach der Bestätigung mit der Enter-Taste wird über die ``gdisk.exe`` das Dateisystem der eingebauten Festplatte gelöscht. 
 
 
+<img src="./data/BAT.png">
